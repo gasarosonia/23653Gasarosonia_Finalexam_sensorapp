@@ -1,16 +1,21 @@
 # sensorapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features and Components:
+1. Light Level Sensing and Automation
+a. Use the device's ambient light sensor to measure the brightness level in the surroundings.
+b. Implement automation features such as adjusting smart lights or notifying users based on 
+changes in ambient light levels.
+2. Motion Detection and Security
+a. Integrate the device's accelerometer sensor to detect motion or vibrations.
+b. Implement a motion detection feature that triggers notifications or alerts when unexpected 
+movements are detected 
+3. Location Tracking and Geofencing
+a. Implement location tracking to monitor the movement of the device within specified 
+geographical boundaries (geofencing).
+b. Use GPS data to trigger actions or notifications when the device enters or exits predefined areas 
+(e.g., home, work).
+4. User Interface and Alerts
+a. Design an intuitive user interface that displays sensor data in real-time using charts or visual 
+indicators.
+b. Implement push notifications or alerts to notify users of significant changes (e.g. motion 
+detected).
